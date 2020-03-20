@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="wzcrowdfunding02-admin-webui:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c75b3b7-4811-40a0-b558-d0c131f2f9d5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/target/" />
+    <ignored path="$PROJECT_DIR$/../wzcrowdfunding03-admin-component/target/" />
+    <ignored path="$PROJECT_DIR$/../wzcrowdfunding04-admin-entity/target/" />
+    <ignored path="$PROJECT_DIR$/../wzcrowdfunding05-common-util/target/" />
+    <ignored path="$PROJECT_DIR$/../wzcrowdfunding06-common-reverse/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/mvc/handler/TestHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrowdExceptionResolver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/mvc/config/CrowdExceptionResolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="54" column="55" lean-forward="true" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrowdConstant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/com/jspi/crowd/constant/CrowdConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="system-error.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/system-error.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Driver</find>
+      <find>spring-</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../wzcrowdfunding04-admin-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding06-common-reverse/pom.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding06-common-reverse/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding04-admin-entity/src/main/java/entity/Admin.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/mybatis/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/spring-persist-mybatis.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/sprin-persist-tx.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/spring-persist-tx.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/test/java/com/jspi/crowd/test/CrowdTest.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding03-admin-component/pom.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/service/api/AdminService.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/target.jsp" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/pom.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/target/wzcrowdfunding02-admin-webui-1.0-SNAPSHOT/index.jsp" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/EntityUtil.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/ResultEntity.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/spring-web-mvc.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/system-error.jsp" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding05-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/CrowdUtil.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/com/jspi/crowd/util/CrowdUtil.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/com/jspi/crowd/util/ResultEntity.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/mvc/handler/TestHandler.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/mvc/config/CrowdExceptionResolver.java" />
+        <option value="$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/com/jspi/crowd/constant/CrowdConstant.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tool\apache-maven-3.6.1\conf\repository" />
+        <option name="mavenHome" value="D:/tool/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\tool\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wzcrowdfunding05-common-util" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="39" />
+    <option name="width" value="693" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wzcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.20.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.20.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.20.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.20.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.20.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.20.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.20.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.20.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.20.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wzcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:4.3.20.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-4.3.20.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/JaveCode/studentManagerSSM" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaVue\funding\wzcrowdfunding02-admin-webui\src\main\resources" />
+      <recent name="D:\javaVue\funding\wzcrowdfunding02-admin-webui\src\main\resources\mybatis\mapper" />
+      <recent name="D:\javaVue\funding\wzcrowdfunding02-admin-webui\src\main\resources\mybatis" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaVue\funding\wzcrowdfunding02-admin-webui\src\main\webapp\jquery" />
+      <recent name="D:\javaVue\funding\wzcrowdfunding06-common-reverse\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../wzcrowdfunding06-common-reverse" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="wzcrowdfunding02-admin-webui:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_wzcrowdfunding01-admin-parent" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56549" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="wzcrowdfunding02-admin-webui:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c75b3b7-4811-40a0-b558-d0c131f2f9d5" name="Default" comment="" />
+      <created>1584522411270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584522411270</updated>
+      <workItem from="1584522412571" duration="35005000" />
+      <workItem from="1584604968352" duration="12625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CrowdTest_testService - 2020.03.19 at 00h 07m 54s.xml">
+      <configuration name="CrowdTest.testService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testService - 2020.03.19 at 07h 52m 51s.xml">
+      <configuration name="CrowdTest.testService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testGetAdminByIdService - 2020.03.19 at 07h 53m 45s.xml">
+      <configuration name="CrowdTest.testGetAdminByIdService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testService - 2020.03.19 at 07h 54m 17s.xml">
+      <configuration name="CrowdTest.testService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testService - 2020.03.19 at 07h 56m 47s.xml">
+      <configuration name="CrowdTest.testService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testRemoveAdminByIdService - 2020.03.19 at 08h 08m 01s.xml">
+      <configuration name="CrowdTest.testRemoveAdminByIdService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testRemoveAdminByIdService - 2020.03.19 at 08h 09m 40s.xml">
+      <configuration name="CrowdTest.testRemoveAdminByIdService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testRemoveAdminByIdService - 2020.03.19 at 08h 10m 28s.xml">
+      <configuration name="CrowdTest.testRemoveAdminByIdService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testService - 2020.03.19 at 08h 21m 56s.xml">
+      <configuration name="CrowdTest.testService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testRemoveAdminByIdService - 2020.03.19 at 10h 57m 05s.xml">
+      <configuration name="CrowdTest.testRemoveAdminByIdService" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47630000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32920355" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.33629748" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.0" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.4761062" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.19646017" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.4743363" />
+      <window_info active="true" content_ui="combo" x="765" y="171" width="278" height="399" id="Project" order="6" visible="true" weight="0.25788197" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32920355" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/mvc/handler/TestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/target.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding04-admin-entity/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding06-common-reverse/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding06-common-reverse/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/mybatis/com.jspi.crowd.mapper/AdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.jspi.crowd:wzcrowdfunding03-admin-component:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.jspi.crowd:wzcrowdfunding03-admin-component:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:1.0-SNAPSHOT</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding04-admin-entity:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding05-common-util:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-jdbc:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-tx:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-expression:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.3.20.RELEASE</node>
+            <node x="" y="">junit:junit:jar:4.12</node>
+            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.aspectj:aspectjweaver:jar:1.9.2</node>
+            <node x="" y="">cglib:cglib:jar:2.2</node>
+            <node x="" y="">cglib:cglib:jar:2.2/asm:asm:jar:3.1</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.3</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.31</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.31/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.31/com.alibaba:tools:jar:1.8.0</node>
+            <node x="" y="">org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="" y="">org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="" y="">com.github.pagehelper:pagehelper:jar:4.0.0</node>
+            <node x="" y="">com.github.pagehelper:pagehelper:jar:4.0.0/com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.8</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-core:jar:2.9.8</node>
+            <node x="" y="">jstl:jstl:jar:1.2</node>
+            <node x="" y="">com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1413.0" y="155.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.jspi.crowd:wzcrowdfunding02-admin-webui:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.jspi.crowd:wzcrowdfunding02-admin-webui:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding02-admin-webui:1.0-SNAPSHOT</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.jspi.crowd:wzcrowdfunding04-admin-entity:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.jspi.crowd:wzcrowdfunding05-common-util:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-beans:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-jdbc:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-orm:jar:4.3.20.RELEASE/org.springframework:spring-tx:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-aop:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-context:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-expression:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.springframework:spring-webmvc:jar:4.3.20.RELEASE/org.springframework:spring-web:jar:4.3.20.RELEASE</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.aspectj:aspectjweaver:jar:1.9.2</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/cglib:cglib:jar:2.2</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/cglib:cglib:jar:2.2/asm:asm:jar:3.1</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.3</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.31</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.31/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.alibaba:druid:jar:1.0.31/com.alibaba:tools:jar:1.8.0</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.mybatis:mybatis:jar:3.2.8</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.mybatis:mybatis-spring:jar:1.2.2</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:4.0.0</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.github.pagehelper:pagehelper:jar:4.0.0/com.github.jsqlparser:jsqlparser:jar:0.9.1</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-core:jar:2.9.8</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/jstl:jstl:jar:1.2</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">com.jspi.crowd:wzcrowdfunding03-admin-component:jar:1.0-SNAPSHOT/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE</node>
+            <node x="" y="">org.springframework:spring-test:jar:4.3.20.RELEASE/org.springframework:spring-core:jar:4.3.20.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">junit:junit:jar:4.12</node>
+            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1815.0" y="44.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/spring-persist-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#714#728#0" expanded="true" />
+            <element signature="e#771#789#0" expanded="true" />
+            <element signature="e#827#840#0" expanded="true" />
+            <element signature="e#881#897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/mapper/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.20.RELEASE/spring-aop-4.3.20.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.20.RELEASE/spring-test-4.3.20.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.20.RELEASE/spring-test-4.3.20.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="286" selection-start-line="286" selection-end-line="286" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/spring-persist-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="27" column="55" lean-forward="true" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/test/java/com/jspi/crowd/test/CrowdTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.20.RELEASE/spring-web-4.3.20.RELEASE.jar!/org/springframework/web/filter/HiddenHttpMethodFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/service/api/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.20.RELEASE/spring-web-4.3.20.RELEASE-sources.jar!/org/springframework/web/filter/CharacterEncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="50" column="41" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/target.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/jquery/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/jquery/jquery.pagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/target/wzcrowdfunding02-admin-webui-1.0-SNAPSHOT/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.20.RELEASE/spring-webmvc-4.3.20.RELEASE-sources.jar!/org/springframework/web/servlet/handler/SimpleMappingExceptionResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="76" column="47" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="47" />
+          <folding>
+            <element signature="e#3024#3025#0" expanded="true" />
+            <element signature="e#3064#3065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="121" column="21" lean-forward="true" selection-start-line="116" selection-start-column="8" selection-end-line="121" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="135" selection-start-line="134" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding05-common-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/com/jspi/crowd/util/CrowdUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/com/jspi/crowd/util/ResultEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding04-admin-entity/src/main/java/entity/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/resources/spring-web-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.20.RELEASE/spring-web-4.3.20.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/mvc/handler/TestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding03-admin-component/src/main/java/com/jspi/crowd/mvc/config/CrowdExceptionResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="54" column="55" lean-forward="true" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding05-common-util/src/main/java/com/jspi/crowd/constant/CrowdConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wzcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/system-error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>wzcrowdfunding02-admin-webui:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|wzcrowdfunding02-admin-webui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

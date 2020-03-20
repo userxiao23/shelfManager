@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration debug="true">
+    <!--指定日志输出位置-->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <!-- encoder 默认配置为PatternLayoutEncoder -->
+        <encoder>
+            <!--日志输出格式-->
+            <!--按顺序分别是：时间、日志级别、线程名称、打印日志类、日志主体内容、换行-->
+            <pattern>[%d{HH:mm:ss.SSS}] [%-5level] [%thread] [%logger] [%msg]%n</pattern>
+        </encoder>
+    </appender>
+
+    <!--DEBUG INFO WARN ERROR-->
+    <!--指定任何一个日志级别都只能打印当前级别和后面的级别日志-->
+    <!-- logback为java中的包 -->
+    <root level="DEBUG">
+        <!--指定打印日志的appender,这里指定前面配置的appender-->
+        <appender-ref ref="STDOUT" />
+    </root>
+    <!--根据特殊需求指定局部日志级别-->
+    <logger name="com.jspi.crowd.mapper" level="DEBUG"/>
+
+
+</configuration>
